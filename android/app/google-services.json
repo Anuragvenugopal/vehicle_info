@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945557863917",
+    "project_id": "vehicle-info-56fe0",
+    "storage_bucket": "vehicle-info-56fe0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945557863917:android:431fdaf23425816a40bbe4",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_info"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCAgVvlN_DnAxIAEyVgjwxpUEoVSzPoYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
